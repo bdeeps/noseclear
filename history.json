@@ -1,0 +1,797 @@
+{
+  "title": "The history of understanding smell",
+  "tagline": "4,000 years from Bronze Age perfume workshops to the genes for 400 smell receptors, a gas that was given a smell to save lives, and a virus that took smell from millions.",
+  "intro": "People have made perfumes, burned incense and prized spices for thousands of years, but for most of history nobody knew how the nose actually smells. Philosophers guessed that smells were made of shaped particles, doctors tried to sort smells into classes, and scientists built machines to measure how faint a smell could be. Only in 1991 were the genes for smell receptors found, revealing a system of about 400 locks that read molecules like barcodes. Today smell is studied for safety, food, memory and medicine.",
+  "eras": [
+    {
+      "id": "scent",
+      "name": "Perfume and philosophy",
+      "from": -2000,
+      "to": 1650,
+      "color": "#c49bff",
+      "summary": "Perfumers in Cyprus, Egypt, Mesopotamia, Persia and India master scents, while thinkers guess that smells are made of shaped particles."
+    },
+    {
+      "id": "classify",
+      "name": "Sorting smells",
+      "from": 1650,
+      "to": 1885,
+      "color": "#ffb547",
+      "summary": "Naturalists try to classify smells like plants and animals, and anatomists wrongly decide that humans are poor smellers."
+    },
+    {
+      "id": "measure",
+      "name": "Measuring and protecting",
+      "from": 1885,
+      "to": 1970,
+      "color": "#ff7a59",
+      "summary": "Scientists measure smell strength, writers notice smell’s link to memory, a disaster gives gas a smell, and the lock-and-key idea is born."
+    },
+    {
+      "id": "molecules",
+      "name": "Receptors and genes",
+      "from": 1965,
+      "to": 2012,
+      "color": "#5ce1a9",
+      "summary": "Mirror-image molecules, electronic noses and the discovery of the receptor genes reveal how the nose really reads molecules."
+    },
+    {
+      "id": "today",
+      "name": "Smell and health today",
+      "from": 2012,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Debates about how many smells we can tell apart, super-smellers, and COVID-19 put the sense of smell in the news."
+    }
+  ],
+  "events": [
+    {
+      "year": -2000,
+      "date": "c. 2000 BCE",
+      "era": "scent",
+      "art": "flask",
+      "title": "A perfume workshop in the Bronze Age",
+      "who": "Bronze Age perfumers",
+      "where": "Pyrgos-Mavroraki, Cyprus",
+      "country": "Cyprus",
+      "text": "Archaeologists digging at Pyrgos on Cyprus found a large workshop, dated to about 4,000 years ago, with stills, jugs and bowls for making scented oils. From residues in the pots they recreated perfumes of pine, coriander, bay and rosemary.",
+      "why": "It shows that making smells on purpose is one of the oldest crafts people have.",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": -1470,
+      "date": "c. 1470 BCE",
+      "era": "scent",
+      "art": "leaf",
+      "title": "Incense trees for a queen",
+      "who": "Queen Hatshepsut’s expedition",
+      "where": "Punt (Horn of Africa or Arabia) to Thebes, Egypt",
+      "country": "Egypt",
+      "text": "Carvings at Hatshepsut’s temple at Deir el-Bahari show her ships returning from the land of Punt with myrrh, incense and living incense trees in baskets. Temples burned incense every day, and Egyptians used scented oils for the living and the dead.",
+      "why": "Ancient Egypt treated fragrance as precious and sacred, worth sending a fleet for.",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": -1200,
+      "date": "c. 1200 BCE",
+      "era": "scent",
+      "art": "flask",
+      "key": true,
+      "title": "Tapputi, the first named chemist",
+      "who": "Tapputi-Belatekallim",
+      "where": "Babylon, Mesopotamia (Iraq)",
+      "country": "Iraq",
+      "text": "A cuneiform clay tablet from Babylonian Mesopotamia names Tapputi, a woman who oversaw perfume-making at the royal palace. It describes her mixing flowers, oil and calamus with water or other solvents, then distilling and filtering them.",
+      "why": "She is often called the first chemist whose name we know, and she was a perfumer.",
+      "sources": [
+        3,
+        0
+      ]
+    },
+    {
+      "year": -300,
+      "date": "c. 300 BCE",
+      "era": "scent",
+      "art": "word",
+      "title": "The first book about smells",
+      "who": "Theophrastus",
+      "where": "Athens, Greece",
+      "country": "Greece",
+      "text": "Theophrastus, a student of Aristotle, wrote a short work, On Odours, about scents, perfumes and how they are made and kept. He noted that smells are hard to name and classify, a problem scientists still wrestle with.",
+      "why": "It is one of the earliest attempts to write down what smells are and how they work.",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": -55,
+      "date": "1st century BCE",
+      "era": "scent",
+      "art": "molecule",
+      "key": true,
+      "title": "Smells are made of shaped atoms",
+      "who": "Lucretius",
+      "where": "Rome",
+      "country": "Italy",
+      "text": "In his long poem On the Nature of Things, the Roman poet Lucretius explained smells, like tastes, with tiny atoms. Pleasant smells, he wrote, come from smooth, round atoms, and harsh ones from rough, hooked atoms that scrape the nose.",
+      "why": "The idea that a smell depends on the shape of its particles comes back, in a new form, 2,000 years later.",
+      "box": "receptors",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 850,
+      "date": "9th century (attributed)",
+      "era": "scent",
+      "art": "flask",
+      "title": "A book of perfume and distillation",
+      "who": "Al-Kindi",
+      "where": "Baghdad, Abbasid Caliphate",
+      "country": "Iraq",
+      "text": "The Arab scholar al-Kindi is credited with a Book of the Chemistry of Perfume and Distillations, with over a hundred recipes for scented oils, salves and waters, and the methods to make them.",
+      "why": "It records perfume-making as careful chemistry, with written recipes others could repeat.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1020,
+      "date": "early 11th century (attributed)",
+      "era": "scent",
+      "art": "leaf",
+      "title": "Rose oil from a still",
+      "who": "Ibn Sina (Avicenna)",
+      "where": "Persia",
+      "country": "Iran",
+      "text": "Ibn Sina is often credited with improving steam distillation to capture the essential oil of roses, though rose water was being distilled before him. Rose water and rose oil became famous trade goods across the Islamic world and beyond.",
+      "why": "Distillation let perfumers capture a flower’s smell molecules in a bottle.",
+      "sources": [
+        7,
+        0
+      ]
+    },
+    {
+      "year": 1600,
+      "date": "by the 1600s (a centuries-old tradition)",
+      "era": "scent",
+      "art": "flame",
+      "title": "Kannauj, the perfume capital of India",
+      "who": "Attar makers of Kannauj",
+      "where": "Kannauj, Uttar Pradesh",
+      "country": "India",
+      "text": "In Kannauj, families have distilled flowers, herbs and even baked earth into attar for more than 400 years. They use the deg-bhapka method: copper stills over wood fires, with the scented steam caught in sandalwood oil. In 2014 Kannauj Perfume received a Geographical Indication tag.",
+      "why": "It is one of the world’s oldest living perfume traditions, still made by hand today.",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1752,
+      "date": "1752",
+      "era": "classify",
+      "art": "word",
+      "title": "Seven kinds of smell",
+      "who": "Carl Linnaeus",
+      "where": "Uppsala, Sweden",
+      "country": "Sweden",
+      "text": "In a medical dissertation on the odours of medicines, Linnaeus sorted smells into seven classes: aromatic, fragrant, ambrosial (musky), alliaceous (garlicky), hircine (goaty), repulsive and nauseating.",
+      "why": "It was an early attempt to organise smells like plants, and it showed how hard smells are to classify.",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1879",
+      "era": "classify",
+      "art": "brain",
+      "title": "Humans called “non-smellers”",
+      "who": "Paul Broca",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "The anatomist Paul Broca noticed that the human olfactory bulb is small compared with the rest of our brain and grouped humans with the “non-smellers”. He did no smell tests. The idea that humans have a poor sense of smell stuck for over a century.",
+      "why": "Modern tests show human noses are far better than this old myth suggests.",
+      "box": "bulb",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1888,
+      "date": "1888",
+      "era": "measure",
+      "art": "nose",
+      "key": true,
+      "title": "The first olfactometer",
+      "who": "Hendrik Zwaardemaker",
+      "where": "Utrecht, Netherlands",
+      "country": "Netherlands",
+      "text": "Zwaardemaker built a device with a glass tube that slid inside a tube lined with a smelly material. Sniffing through it, a person got a stronger smell the further the tube was pulled out, so the weakest detectable smell could be measured.",
+      "why": "For the first time, the strength of a smell and a person’s sensitivity could be put into numbers.",
+      "sources": [
+        13,
+        15,
+        14
+      ]
+    },
+    {
+      "year": 1913,
+      "date": "1913",
+      "era": "measure",
+      "art": "word",
+      "title": "The madeleine and the memory",
+      "who": "Marcel Proust",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "In the novel Swann’s Way, the narrator dips a small cake, a madeleine, into tea. Its taste and smell bring back a flood of childhood memories he had forgotten. Scientists now call smell-triggered memories the “Proust effect”.",
+      "why": "It gave a name to something everyone has felt: smells unlock memories.",
+      "box": "bulb",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1937,
+      "date": "18 March 1937",
+      "era": "measure",
+      "art": "flame",
+      "key": true,
+      "title": "The school explosion that gave gas a smell",
+      "who": "New London School, Texas",
+      "where": "New London, Texas, USA",
+      "country": "United States",
+      "text": "Unsmelled natural gas leaked and built up under a school, and a spark set it off. Around 300 people, most of them children, were killed. Texas then passed a law requiring gas to carry a strong smell, a “malodorant”, and other places followed. Today mercaptans such as ethyl mercaptan, added to LPG, do this job.",
+      "why": "The smell of a gas leak is a safety feature, added so that noses can raise the alarm.",
+      "box": "health",
+      "sources": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "1952–1964",
+      "era": "measure",
+      "art": "molecule",
+      "key": true,
+      "title": "Smell by shape: the lock-and-key idea",
+      "who": "John Amoore",
+      "where": "United Kingdom and United States",
+      "country": "United Kingdom",
+      "text": "Amoore proposed that smell depends on molecules fitting receptor sites of certain shapes, like keys in locks, and suggested seven primary odours. He set it out for the public in Scientific American in 1964. Later he agreed there must be many more than seven kinds of receptor.",
+      "why": "He was right that shape matters, even though the real system turned out to be far bigger.",
+      "box": "receptors",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1971",
+      "era": "molecules",
+      "art": "molecule",
+      "title": "Mirror-image smells",
+      "who": "Russell and Hills; Leitereg and colleagues",
+      "where": "United States",
+      "country": "United States",
+      "text": "Two teams showed that the two mirror-image forms of carvone smell different: one of spearmint, the other of caraway. The molecules have exactly the same atoms, arranged as left and right hands.",
+      "why": "It proved that the nose reads a molecule’s 3D shape, not just what it is made of.",
+      "box": "receptors",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1982,
+      "date": "1982",
+      "era": "molecules",
+      "art": "chip",
+      "key": true,
+      "title": "The first electronic nose",
+      "who": "Krishna Persaud and George Dodd",
+      "where": "University of Warwick, UK",
+      "country": "United Kingdom",
+      "text": "Persaud and Dodd built a “model nose” from a few chemical sensors that each responded broadly to many smells. By comparing the pattern across sensors, it could tell different odours apart.",
+      "why": "It showed that a pattern from broadly tuned sensors is enough to tell smells apart, the same trick the real nose uses.",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "5 April 1991",
+      "era": "molecules",
+      "art": "nose",
+      "key": true,
+      "title": "The smell receptor genes are found",
+      "who": "Linda Buck and Richard Axel",
+      "where": "Columbia University, New York, USA",
+      "country": "United States",
+      "text": "Buck and Axel discovered a huge family of genes for odorant receptors, proteins on the cilia of smell neurons. In mice there are about 1,000; humans have about 400 that work. They showed each neuron uses just one receptor type.",
+      "why": "It explained, at last, how the nose can detect so many different molecules.",
+      "box": "receptors",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2004,
+      "date": "4 October 2004",
+      "era": "molecules",
+      "art": "trophy",
+      "key": true,
+      "title": "A Nobel Prize for smell",
+      "who": "Linda Buck and Richard Axel",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "Buck and Axel were awarded the Nobel Prize in Physiology or Medicine “for their discoveries of odorant receptors and the organization of the olfactory system”, including how neurons of one type all wire to the same spots in the olfactory bulb.",
+      "why": "Smell, long the least understood sense, joined the best understood.",
+      "box": "bulb",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "2008",
+      "era": "molecules",
+      "art": "brain",
+      "title": "Counting the human bulb’s glomeruli",
+      "who": "Maresh, Gil, Whitman and Greer",
+      "where": "Yale University, USA",
+      "country": "United States",
+      "text": "Studying human olfactory bulbs, researchers found more than 5,500 glomeruli on average, about 16 for each receptor type, not the 2 per type seen in mice.",
+      "why": "Human smell wiring turned out to differ from the mouse model everyone had assumed.",
+      "box": "bulb",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "21 March 2014",
+      "era": "today",
+      "art": "molecule",
+      "key": true,
+      "title": "“A trillion smells”",
+      "who": "Caroline Bushdid, Andreas Keller, Leslie Vosshall and colleagues",
+      "where": "Rockefeller University, New York, USA",
+      "country": "United States",
+      "text": "Volunteers compared mixtures of many odour molecules and tried to spot the odd one out. From the results the team estimated that people can tell apart at least a trillion different smells, and the number made headlines.",
+      "why": "It overturned the old, never-tested claim that humans can tell apart only about 10,000 smells.",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015",
+      "era": "today",
+      "art": "word",
+      "title": "The trillion is challenged",
+      "who": "Richard Gerkin and Jason Castro; Markus Meister",
+      "where": "USA",
+      "country": "United States",
+      "text": "Two papers showed that the trillion figure depended heavily on the maths used. With the same method, the answer could be far bigger or far smaller, and applied to colour vision it gave nonsense. The true number of smells we can tell apart is still unknown.",
+      "why": "Big numbers need careful checking: the question is still open.",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017",
+      "era": "today",
+      "art": "person",
+      "title": "Human noses are better than we thought",
+      "who": "John McGann",
+      "where": "Rutgers University, USA",
+      "country": "United States",
+      "text": "A review in Science traced the idea that humans are poor smellers back to Broca, and showed that in tests people can match or beat dogs and rodents at detecting some smells.",
+      "why": "It helped end a 140-year-old myth about the human nose.",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "March 2019",
+      "era": "today",
+      "art": "person",
+      "title": "The woman who could smell Parkinson’s",
+      "who": "Joy Milne, Perdita Barran and colleagues",
+      "where": "Manchester, UK",
+      "country": "United Kingdom",
+      "text": "Joy Milne, a retired nurse, noticed a musky smell on her husband years before he was diagnosed with Parkinson’s disease. Scientists used her nose to find molecules in skin oil (sebum) that differ in people with Parkinson’s.",
+      "why": "One unusual nose pointed chemists towards a possible simple test for a disease.",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "March to May 2020",
+      "era": "today",
+      "art": "nose",
+      "key": true,
+      "title": "COVID-19 steals people’s sense of smell",
+      "who": "ENT doctors worldwide",
+      "where": "United Kingdom and worldwide",
+      "country": "United Kingdom",
+      "text": "In March 2020, ear, nose and throat doctors warned that sudden loss of smell could be a sign of COVID-19. On 18 May 2020 the UK added it to the official symptom list. Early studies found smell loss in roughly 40 to 50% of patients, far fewer with the later Omicron variant.",
+      "why": "Millions of people discovered how much they rely on a sense they had never thought about.",
+      "box": "health",
+      "sources": [
+        33,
+        34,
+        35,
+        42,
+        37
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "24 July 2020",
+      "era": "today",
+      "art": "molecule",
+      "title": "Why COVID-19 hits smell",
+      "who": "David Brann, Sandeep Robert Datta and colleagues",
+      "where": "Harvard Medical School, USA",
+      "country": "United States",
+      "text": "Researchers found that the proteins the virus uses to enter cells are made by the supporting cells of the smell patch, not by the smell neurons themselves. Damage to these helper cells disrupts smell.",
+      "why": "It explained why most people recover: the neurons are mostly spared and the support cells regrow.",
+      "box": "health",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "4 October 2021",
+      "era": "today",
+      "art": "trophy",
+      "title": "A Nobel for chilli and mint",
+      "who": "David Julius and Ardem Patapoutian",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "David Julius shared the Nobel Prize for discovering TRPV1, the sensor that capsaicin in chilli triggers, and, with others, the menthol sensor TRPM8. These sit on the trigeminal nerve endings in the mouth and nose.",
+      "why": "It explains why chilli burns and mint cools, even though neither is a taste or a smell.",
+      "box": "flavour",
+      "sources": [
+        38
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First chemist known by name, a perfumer",
+      "value": "c. 1200 BCE",
+      "who": "Tapputi, Babylonian Mesopotamia"
+    },
+    {
+      "label": "First instrument to measure smell strength",
+      "value": "1888",
+      "who": "Hendrik Zwaardemaker, Netherlands"
+    },
+    {
+      "label": "First law requiring gas to be given a smell",
+      "value": "1937",
+      "who": "Texas, USA"
+    },
+    {
+      "label": "First electronic nose",
+      "value": "1982",
+      "who": "Persaud and Dodd, University of Warwick, UK"
+    },
+    {
+      "label": "Smell receptor genes discovered",
+      "value": "1991",
+      "who": "Linda Buck and Richard Axel, USA"
+    },
+    {
+      "label": "Nobel Prize for the sense of smell",
+      "value": "2004",
+      "who": "Linda Buck and Richard Axel"
+    }
+  ],
+  "people": [
+    {
+      "name": "Tapputi-Belatekallim",
+      "life": "fl. c. 1200 BCE",
+      "role": "Perfumer and palace overseer",
+      "from": "Babylonian Mesopotamia",
+      "note": "The first chemist known by name, recorded making perfumes by distilling and filtering."
+    },
+    {
+      "name": "Lucretius",
+      "life": "c. 99 – c. 55 BCE",
+      "role": "Poet and philosopher",
+      "from": "Rome",
+      "note": "Explained smells as atoms of different shapes, smooth or hooked."
+    },
+    {
+      "name": "Carl Linnaeus",
+      "life": "1707 – 1778",
+      "role": "Naturalist and physician",
+      "from": "Sweden",
+      "note": "Sorted smells into seven classes in 1752."
+    },
+    {
+      "name": "Hendrik Zwaardemaker",
+      "life": "1857 – 1930",
+      "role": "Physiologist",
+      "from": "Netherlands",
+      "note": "Invented the olfactometer to measure how faint a smell can be."
+    },
+    {
+      "name": "John Amoore",
+      "life": "20th century",
+      "role": "Biochemist",
+      "from": "United Kingdom",
+      "note": "Championed the idea that molecules fit smell receptors by shape."
+    },
+    {
+      "name": "Linda Buck",
+      "life": "born 1947",
+      "role": "Neuroscientist",
+      "from": "United States",
+      "note": "Co-discovered the smell receptor genes and shared the 2004 Nobel Prize."
+    },
+    {
+      "name": "Richard Axel",
+      "life": "born 1946",
+      "role": "Molecular biologist",
+      "from": "United States",
+      "note": "Co-discovered the smell receptor genes and shared the 2004 Nobel Prize."
+    },
+    {
+      "name": "Joy Milne",
+      "life": "20th–21st century",
+      "role": "Retired nurse",
+      "from": "Scotland, UK",
+      "note": "Could smell Parkinson’s disease, which led chemists to new biomarkers."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "The smell patch in each side of your nose is only about the size of a postage stamp.",
+    "Humans have about 400 working smell receptor genes; mice have about 1,100.",
+    "Spearmint and caraway get their smells from two mirror-image forms of the same molecule, carvone.",
+    "Cooking gas has almost no smell of its own. The smell is added so noses can spot a leak at around one part per billion.",
+    "Early in the COVID-19 pandemic, roughly 40 to 50% of patients lost some sense of smell."
+  ],
+  "sources": [
+    {
+      "title": "History of perfume",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_perfume"
+    },
+    {
+      "title": "Perfumes of Pyrgos-Mavroraki",
+      "publisher": "Pyrgos-Mavroraki excavation project",
+      "url": "https://www.pyrgos-mavroraki.eu/perfumes"
+    },
+    {
+      "title": "Punt",
+      "publisher": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/punt/"
+    },
+    {
+      "title": "Tapputi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tapputi"
+    },
+    {
+      "title": "Lucretius, De Rerum Natura, Book IV (trans. A. S. Kline)",
+      "publisher": "Poetry in Translation",
+      "url": "https://www.poetryintranslation.com/PITBR/Latin/LucretiusDeRerumNaturaBkIV.php"
+    },
+    {
+      "title": "De rerum natura",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_rerum_natura"
+    },
+    {
+      "title": "Theophrastus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theophrastus"
+    },
+    {
+      "title": "Rose water",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rose_water"
+    },
+    {
+      "title": "How did Kannauj become the perfume capital of India?",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/travel/article/how-did-kannauj-become-a-perfume-capital"
+    },
+    {
+      "title": "Kannauj Perfume",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kannauj_Perfume"
+    },
+    {
+      "title": "Dissertatio medica odores medicamentorum exhibens (1752)",
+      "publisher": "Wellcome Collection",
+      "url": "https://wellcomecollection.org/works/et4n598r"
+    },
+    {
+      "title": "Goat (Linnaeus’s odour classes)",
+      "publisher": "Odeuropa Encyclopedia of Smell History and Heritage",
+      "url": "https://encyclopedia.odeuropa.eu/items/show/15"
+    },
+    {
+      "title": "McGann, Poor human olfaction is a 19th-century myth, Science 356 (2017)",
+      "publisher": "Science",
+      "url": "https://www.science.org/doi/10.1126/science.aam7263"
+    },
+    {
+      "title": "Hendrik Zwaardemaker",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hendrik_Zwaardemaker"
+    },
+    {
+      "title": "Olfactometer",
+      "publisher": "National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_733997"
+    },
+    {
+      "title": "Nicolas, A historical review of olfactometry: the invention of the olfactometer by Hendrik Zwaardemaker in 1888",
+      "publisher": "L’Année psychologique (2021)",
+      "url": "https://www.annee-psychologique.fr/en/post/?article=E_ANPSY1_213_0311"
+    },
+    {
+      "title": "Involuntary memory",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Involuntary_memory"
+    },
+    {
+      "title": "New London School explosion",
+      "publisher": "Texas State Historical Association, Handbook of Texas",
+      "url": "https://www.tshaonline.org/handbook/entries/new-london-school-explosion"
+    },
+    {
+      "title": "New London School explosion",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_London_School_explosion"
+    },
+    {
+      "title": "New London School Explosion",
+      "publisher": "American Oil & Gas Historical Society",
+      "url": "https://aoghs.org/oil-almanac/new-london-texas-school-explosion/"
+    },
+    {
+      "title": "Amoore, Johnston & Rubin, The Stereochemical Theory of Odor (February 1964)",
+      "publisher": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/the-stereochemical-theory-of-odor/"
+    },
+    {
+      "title": "Docking theory of olfaction",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Docking_theory_of_olfaction"
+    },
+    {
+      "title": "Carvone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carvone"
+    },
+    {
+      "title": "Persaud & Dodd, Analysis of discrimination mechanisms in the mammalian olfactory system using a model nose, Nature 299 (1982)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/299352a0"
+    },
+    {
+      "title": "Electronic nose",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electronic_nose"
+    },
+    {
+      "title": "Press release: The Nobel Prize in Physiology or Medicine 2004",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/2004/press-release/"
+    },
+    {
+      "title": "Richard Axel and Linda Buck awarded 2004 Nobel Prize",
+      "publisher": "Howard Hughes Medical Institute",
+      "url": "https://www.hhmi.org/news/richard-axel-and-linda-buck-awarded-2004-nobel-prize-physiology-or-medicine"
+    },
+    {
+      "title": "Maresh et al., Principles of glomerular organization in the human olfactory bulb, PLoS One (2008)",
+      "publisher": "PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0002640"
+    },
+    {
+      "title": "Bushdid et al., Humans can discriminate more than 1 trillion olfactory stimuli, Science 343 (2014)",
+      "publisher": "Science",
+      "url": "https://www.science.org/doi/10.1126/science.1249168"
+    },
+    {
+      "title": "Gerkin & Castro, The number of olfactory stimuli that humans can discriminate is still unknown, eLife (2015)",
+      "publisher": "eLife",
+      "url": "https://elifesciences.org/articles/08127"
+    },
+    {
+      "title": "Meister, On the dimensionality of odor space, eLife (2015)",
+      "publisher": "eLife",
+      "url": "https://elifesciences.org/articles/07865"
+    },
+    {
+      "title": "Trivedi et al., Discovery of volatile biomarkers of Parkinson’s disease from sebum, ACS Central Science 5 (2019)",
+      "publisher": "ACS Publications",
+      "url": "https://pubs.acs.org/doi/10.1021/acscentsci.8b00879"
+    },
+    {
+      "title": "Sniffing out Parkinson’s disease",
+      "publisher": "ScienceDaily (University of Manchester)",
+      "url": "https://www.sciencedaily.com/releases/2019/03/190320102125.htm"
+    },
+    {
+      "title": "What is the evidence for anosmia (loss of smell) as a clinical feature of COVID-19?",
+      "publisher": "Centre for Evidence-Based Medicine, Oxford",
+      "url": "https://www.cebm.net/covid-19/what-is-the-evidence-for-anosmia-loss-of-smell-as-a-clinical-feature-of-covid-19/"
+    },
+    {
+      "title": "Loss of smell or taste added to official UK list of coronavirus symptoms",
+      "publisher": "CNN",
+      "url": "https://www.cnn.com/2020/05/18/uk/coronavirus-anosmia-uk-symptoms-scli-gbr-intl"
+    },
+    {
+      "title": "Tong et al., The prevalence of olfactory and gustatory dysfunction in COVID-19 patients: a systematic review and meta-analysis (2020)",
+      "publisher": "Otolaryngology–Head and Neck Surgery",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0194599820926473"
+    },
+    {
+      "title": "Brann et al., Non-neuronal expression of SARS-CoV-2 entry genes in the olfactory system (2020)",
+      "publisher": "Science Advances",
+      "url": "https://www.science.org/doi/10.1126/sciadv.abc5801"
+    },
+    {
+      "title": "How COVID-19 sparked an explosion in smell-loss research",
+      "publisher": "Royal Society of Medicine",
+      "url": "https://www.rsm.ac.uk/latest-news/2023/how-covid-19-sparked-an-explosion-in-smell-loss-research/"
+    },
+    {
+      "title": "Press release: The Nobel Prize in Physiology or Medicine 2021",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/2021/press-release/"
+    },
+    {
+      "title": "Smell disorders",
+      "publisher": "NIDCD, US National Institutes of Health",
+      "url": "https://www.nidcd.nih.gov/health/smell-disorders"
+    },
+    {
+      "title": "Lost or changed sense of smell",
+      "publisher": "NHS",
+      "url": "https://www.nhs.uk/conditions/lost-or-changed-sense-of-smell/"
+    },
+    {
+      "title": "LPG emergency helpline 1906",
+      "publisher": "Ministry of Petroleum and Natural Gas, India",
+      "url": "https://mopng.gov.in/en/marketing/emergency-helpline"
+    },
+    {
+      "title": "von Bartheld & Wang, Prevalence of olfactory dysfunction with the Omicron variant of SARS-CoV-2 (2023)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36561176/"
+    }
+  ]
+}

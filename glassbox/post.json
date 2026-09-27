@@ -1,0 +1,126 @@
+{
+  "slug": "noseclear",
+  "box": 33,
+  "question": "How does the nose smell?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/noseclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/noseclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "4,000 years from Bronze Age perfume workshops to the genes for 400 smell receptors, a gas that was given a smell to save lives, and a virus that took smell from millions.\n\n1200 BCE: Tapputi, the first named chemist\n55 BCE: Smells are made of shaped atoms\n1888: The first olfactometer\n1937: The school explosion that gave gas a smell\n1964: Smell by shape: the lock-and-key idea\n1982: The first electronic nose\n\nThe full story, with 26 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/noseclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/noseclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #nose #smell #olfaction #flavour #senses #humanbody #history",
+      "youtube": {
+        "title": "The history of understanding smell in 45 seconds #shorts",
+        "description": "4,000 years from Bronze Age perfume workshops to the genes for 400 smell receptors, a gas that was given a smell to save lives, and a virus that took smell from millions.\n\n1200 BCE · Tapputi, the first named chemist (Tapputi-Belatekallim)\n55 BCE · Smells are made of shaped atoms (Lucretius)\n1888 · The first olfactometer (Hendrik Zwaardemaker)\n1937 · The school explosion that gave gas a smell (New London School, Texas)\n1964 · Smell by shape: the lock-and-key idea (John Amoore)\n1982 · The first electronic nose (Krishna Persaud and George Dodd)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/noseclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/noseclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the nose smell?\n\nYour nose is two 10 cm tunnels with a stamp-sized smell patch in the roof, about 400 kinds of receptor, and a direct line to the brain's memory centres. Sniff air up to the patch, watch molecules fit their receptors, and see why a mango is mostly smell.\n\n→ Behind your nose are two 10 cm tunnels, split by a wall called the septum.\n→ Only a stamp-sized patch high in the roof can smell. A sniff sends air up to it.\n→ Freezing air in, warm wet air out: the nose heats each breath to about 30 °C in a fraction of a second.\n→ Every few hours your two nostrils swap: one swells while the other opens.\n→ Smell molecules drift up into the mucus and fit receptors on tiny hairs. Each fit fires a neuron.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/noseclear (link in bio)\n\nBox No. 033 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #nose #smell #olfaction #flavour #senses #humanbody #biology #threejs",
+    "carousel": "Swipe through: How does the nose smell?\n\nYour nose is two 10 cm tunnels with a stamp-sized smell patch in the roof, about 400 kinds of receptor, and a direct line to the brain's memory centres. Sniff air up to the patch, watch molecules fit their receptors, and see why a mango is mostly smell.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/noseclear (link in bio).\n\nBox No. 033 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #nose #smell #olfaction #flavour #senses #humanbody",
+    "youtube": {
+      "title": "How does the nose smell? #shorts",
+      "description": "Your nose is two 10 cm tunnels with a stamp-sized smell patch in the roof, about 400 kinds of receptor, and a direct line to the brain's memory centres. Sniff air up to the patch, watch molecules fit their receptors, and see why a mango is mostly smell.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/noseclear/\n⌘ Source code (MIT): https://github.com/bdeeps/noseclear\n\nBox No. 033 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the nose smell? (interactive explainer)",
+      "description": "Your nose is two 10 cm tunnels with a stamp-sized smell patch in the roof, about 400 kinds of receptor, and a direct line to the brain's memory centres. Sniff air up to the patch, watch molecules fit their receptors, and see why a mango is mostly smell.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/noseclear/\n⌘ Source code (MIT): https://github.com/bdeeps/noseclear\n\nIn this video:\n• Two tunnels and a smell patch. Behind your nostrils, two nasal cavities run about 10 cm back, split by the septum.\n• A built-in air conditioner. The turbinates are warm, wet and full of blood vessels.\n• About 400 locks, endless barcodes. Smell molecules dissolve in the mucus and fit receptors on the cilia of millions of smell neurons.\n• A short cut into the brain. Neurons with the same receptor all wire to the same glomeruli in the olfactory bulb.\n• Flavour is mostly smell. The tongue senses five basic tastes.\n• When smell goes wrong. Colds block air from the smell patch, COVID-19 took smell from roughly 40 to 50% of patients early in the pandemic, and smell fades with age.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the nose smell?\n\nYour nose is two 10 cm tunnels with a stamp-sized smell patch in the roof, about 400 kinds of receptor, and a direct line to the brain's memory centres.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/noseclear/",
+    "linkedin": "How does the nose smell?\n\nYour nose is two 10 cm tunnels with a stamp-sized smell patch in the roof, about 400 kinds of receptor, and a direct line to the brain's memory centres. Sniff air up to the patch, watch molecules fit their receptors, and see why a mango is mostly smell.\n\n1. Two tunnels and a smell patch\n2. A built-in air conditioner\n3. About 400 locks, endless barcodes\n4. A short cut into the brain\n5. Flavour is mostly smell\n6. When smell goes wrong\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 033 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/noseclear/\nCode: https://github.com/bdeeps/noseclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T13:06:20.225Z"
+}

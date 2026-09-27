@@ -1,0 +1,100 @@
+{
+  "slug": "noseclear",
+  "box": 33,
+  "date": "2026-10-13",
+  "title": "NoseClear",
+  "question": "How does the nose smell?",
+  "hook": "Your nose is two 10 cm tunnels with a stamp-sized smell patch in the roof, about 400 kinds of receptor, and a direct line to the brain's memory centres. Sniff air up to the patch, watch molecules fit their receptors, and see why a mango is mostly smell.",
+  "thumbText": "HOW YOUR NOSE SMELLS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "nose",
+    "smell",
+    "olfaction",
+    "flavour",
+    "senses",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two tunnels and a smell patch",
+      "text": "Behind your nostrils, two nasal cavities run about 10 cm back, split by the septum. Three curled turbinates hang from each side wall. Smelling happens only in a small yellowish patch in the roof, the olfactory epithelium, just under a sieve of bone called the cribriform plate. A sniff sends more air up to it."
+    },
+    {
+      "title": "A built-in air conditioner",
+      "text": "The turbinates are warm, wet and full of blood vessels. Room air at about 25 °C reaches the back of the nose at about 34 °C and 90% humidity. Mucus traps dust and cilia slide it back to the throat, and in most people the two sides take turns to swell every few hours: the nasal cycle."
+    },
+    {
+      "title": "About 400 locks, endless barcodes",
+      "text": "Smell molecules dissolve in the mucus and fit receptors on the cilia of millions of smell neurons. Humans have about 400 working receptor types, found by Linda Buck and Richard Axel in 1991. Each smell activates its own combination, like a barcode, so mirror-image molecules such as the two carvones can smell of spearmint and caraway."
+    },
+    {
+      "title": "A short cut into the brain",
+      "text": "Neurons with the same receptor all wire to the same glomeruli in the olfactory bulb. From there, signals go straight to the piriform cortex, the amygdala and the gateway to the hippocampus, without the thalamus relay other senses use first. That is one reason smells bring back memories and feelings."
+    },
+    {
+      "title": "Flavour is mostly smell",
+      "text": "The tongue senses five basic tastes. The rest of flavour is retronasal smell: aroma rising from the mouth up the back of the nose as you chew and breathe out. Hold your nose and a mango is just sweet and sour. Chilli heat and mint cool come through the trigeminal nerve, and steady smells fade within minutes."
+    },
+    {
+      "title": "When smell goes wrong",
+      "text": "Colds block air from the smell patch, COVID-19 took smell from roughly 40 to 50% of patients early in the pandemic, and smell fades with age. Cooking gas gets a trace of ethyl mercaptan so leaks can be smelled at about a part per billion, long before the gas could burn. For your own nose, see a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Olfactory epithelium",
+      "def": "The small patch of lining high in the roof of the nose that holds the smell neurons."
+    },
+    {
+      "term": "Turbinates",
+      "def": "Three curled, lined shelves on each side wall of the nose that warm, wet and clean the air."
+    },
+    {
+      "term": "Olfactory receptor",
+      "def": "A protein on a smell neuron's cilia that binds certain molecules. Humans have about 400 working types."
+    },
+    {
+      "term": "Combinatorial code",
+      "def": "Each smell is recognised by the combination of receptor types it activates, like a barcode."
+    },
+    {
+      "term": "Olfactory bulb",
+      "def": "The first stop for smell in the brain, where axons of one receptor type meet in the same glomeruli."
+    },
+    {
+      "term": "Retronasal smell",
+      "def": "Smelling food from inside the mouth, as air rises up the back of the nose while you chew and breathe out."
+    },
+    {
+      "term": "Nasal cycle",
+      "def": "The natural swapping of swelling between the two sides of the nose every few hours."
+    },
+    {
+      "term": "Anosmia",
+      "def": "Loss of the sense of smell."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "noseclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
